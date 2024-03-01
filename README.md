@@ -1,4 +1,4 @@
 # Calculator
-I learned coding from YouTube so I have made this project with the help of YouTube
+I learned coding from online resources so I have made this project with the help of YouTube
 <br>
 Author -: Abhishek Pandey
